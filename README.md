@@ -1,4 +1,4 @@
-# Mautic-Newsman - Email Integration
+# ZenCart1.5-Newsman - Email Integration
 [Newsman](https://www.newsmanapp.com) integration for ZendCart 1.5. Send your customers subscribed to newsletter into NewsMan platform.
 
 # Installation
@@ -17,4 +17,4 @@ Installation:
 3. Synchronize your customers with active newsletter by clicking `Sync Now`
 
 
-![](https://raw.githubusercontent.com/Newsman/Mautic-Newsman/master/assets/1.png)
+![](https://raw.githubusercontent.com/Newsman/ZenCart1.5-Newsman/master/assets/1.png)
