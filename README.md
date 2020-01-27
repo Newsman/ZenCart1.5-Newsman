@@ -12,7 +12,7 @@ Installation:
 
 # Setup
 
-1. Fill in your Newsman SMTP API KEY and User ID and click `Save`
+1. Fill in your Newsman API KEY and User ID and click `Save`
 2. If credentials are correct, select a list and click `Save`
 3. Synchronize your customers with active newsletter by clicking `Sync Now`
 
